@@ -2,9 +2,10 @@
 
 The digital design files for the Maslow CNC Machine
 
-===
+## Build it yourself
+Get the step by step assembly guide [on the official website](https://www.maslowcnc.com/assemblyguide).
 
-Digital Design Files
+## Digital Design Files
 
 The official latest version of the design has moved from Sketchup into OnShape, a web based
 parametric CAD program which lets us more easily modify and adadpt the design than Sketchup
